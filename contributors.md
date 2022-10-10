@@ -2,7 +2,7 @@
 
 <!--
 
-Enter your name below in this format:
+Enter your name and GitHub URL below in this format:
 - [name](github-url)
 
 -->
