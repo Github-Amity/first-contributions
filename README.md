@@ -7,10 +7,8 @@ A repo for newcomers to understand how to use GitHub
 - Enter your name and provide your GitHub URL in the given format
 - Add a commit message like "Add my-github-username to Contributors.md"  
 Eg: "Add tarctic to Contributors.md"
-- Create a new branch for the commit and enter a branch name like "add-my-name" where my-name is the name you entered in the Contributors.md file  
 - Create a pull request and submit it
-- Wait for your changes to be accepted
-
+- You have successfully contributed to this repo!
 
 ## How to add your name to Contributors.md (with Git) :
 Follow the instructions given [here](https://github.com/firstcontributions/first-contributions)
