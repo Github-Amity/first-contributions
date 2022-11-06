@@ -3,7 +3,7 @@
 <!--
 
 Enter your name and GitHub URL below in this format:
-- [name](github-url)
+-[name](github-url
 
 -->
 
@@ -12,3 +12,4 @@ Enter your name and GitHub URL below in this format:
 - [Bhavyamax](https://github.com/bhavyamax)
 - [Chief](https://github.com/chiefsohan)
 - [Maryam](https://github.com/maryambsq)
+- [Sher Padshah](https://github.com/SherAhmadzai)
