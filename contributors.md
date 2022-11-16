@@ -13,3 +13,4 @@ Enter your name and GitHub URL below in this format:
 - [Chief](https://github.com/chiefsohan)
 - [Maryam](https://github.com/maryambsq)
 - [Sher Padshah](https://github.com/SherAhmadzai)
+- [Salma](https://github.com/salmasgithub)
